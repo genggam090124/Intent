@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Adaptasi Hidup Baru</string>
+    <string name="satut">Jaga Diri</string>
+    <string name="satud">menjaga diri itu penting, dari segi keamanan maupun kesehatan, pada kondisi saat ini menjaga kesehatan bisa kita lakukan dengan menjaga jarak dari orang lain</string>
+    <string name="btntext">Cek tips lainnya kuy</string>
+    <string name="todo">TODO</string>
+    <string name="q">TODO</string>
+    <string name="duat">Wajib Masker</string>
+    <string name="duad">sangat tidak mungkin jika selalu mengisolasi diri kita di rumah, pasti ada saat dimana kita harus keluar rumah seperti membeli keperluan rumah, isi paket data, buat sim ataupun mengisi bensin. Maka dari itu saat kita hendak keluar rumah sangat disarankan untuk memakai masker</string>
+    <string name="tigas">Nyuci Tangan</string>
+    <string name="tigad">usahakan setiap kita dari luar ruangan dan akan masuk ke sebuah ruangan usahakan cuci tangan ya, karena bisa jadi tangan kita telah ditumpangi oleh banyak kuman. Jadi saat kita mencuci tangan, kita sudah melindungi diri kita dan orang sekitar kita dari virus</string>
+    <string name="empat">Perubahan Gaya Hidup</string>
+    <string name="intro">Ini tips saya ya</string>
+    <string name="list_tips">1. Rajin Olahraga untuk \n jaga imun tubuh \n
+        2. Selalu lakukan hal yang \n    sudah kamu baca tadi \n
+        3. Jangan lupa doa itu hal \n    terpenting soalnya
+    </string>
+    <string name="end">Take care and stay safe :)</string>
+</resources>
